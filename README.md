@@ -193,14 +193,10 @@ $7 bilhões (segmento de seguros odontológicos).
 ## Protótipo das Telas
 
 (Desenvolver protótipos das telas a partir dos fluxos de navegação definidos.)
-**![Protótipos]([[https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp]](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed%20(1).png))
-**
-**![Protótipos]([https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp])
-**
-**![Protótipos]([https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp](https://keep.google.com/u/0/media/v2/1N082Nyx-b4QvdZogs2LilZD4r97ATHroNq2Ra0ekQ5OIGzWuzZbBPqjEZlbkpQ/1SL843XhuJ8bF6Mbm1SnBGS4sR5o5TNz-LlQBmnlzCQrFJYnRpz-LONsmYEKwag?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)](https://keep.google.com/u/0/media/v2/1Oc9H0vOhQ8Tg0otTJXtQxyIzBmmNLonL1pgtl-Er1xc41pS-nYI_A4JFdRAqiA/1lUaX18Cw7x7xHObVB6jG4HO9CcO9CZndUcNy8iIpzyMqbISrngBRfa_Kc1-Av0o?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp])
-**
-**![Protótipos]([https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp](https://keep.google.com/u/0/media/v2/1N082Nyx-b4QvdZogs2LilZD4r97ATHroNq2Ra0ekQ5OIGzWuzZbBPqjEZlbkpQ/1SL843XhuJ8bF6Mbm1SnBGS4sR5o5TNz-LlQBmnlzCQrFJYnRpz-LONsmYEKwag?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)](https://keep.google.com/u/0/media/v2/1Oc9H0vOhQ8Tg0otTJXtQxyIzBmmNLonL1pgtl-Er1xc41pS-nYI_A4JFdRAqiA/1lUaX18Cw7x7xHObVB6jG4HO9CcO9CZndUcNy8iIpzyMqbISrngBRfa_Kc1-Av0o?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp](https://keep.google.com/u/0/media/v2/1OfCljubOB6SMWLP9bnnPUVQZHED-gBEEhSTcDKl_RsJddWrl1qHlfV1MiOm-/1j-nfVy5nDCyuQdm8ah4XnR52R8V33GXOWE7ovQk7gQwZ3CxZIYa3A2C6EoV_uQ?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp])
-**
+![Protótipos - 1]([[https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp]](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed%20(1).png))
+![Protótipos - 2]([[https://keep.google.com/u/0/media/v2/1BLoRk4LqhYw9d8Q5rbhLNw_7UPlp7cVrahcoaw-P27Ul59HjLU0o6YWaHZsE-g/1Q_tOYOCOEUCDI0R4hkODKyIA4wW_LRRKd_8oPNvBfA09rmTPRlLTqUobTfm8pRk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp]](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed%20(2).png))
+![Protótipos - 3]()
+![Protótipos - 4]()
 ---
 
 ## Conclusão
